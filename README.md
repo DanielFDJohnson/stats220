@@ -2,7 +2,7 @@
 ### Welcome to my STATS220 repository. 
 This repository will be for: 
 * Building a record of my work within the UOA **STATS220** course in 2024.
-* Sharing work done within the UOA **STATS220** course for collaborative purposes.
+* Sharing work done within the UOA **STATS220** course for academic purposes.
 
 The UOA statistics courses I have completed or are engaging in so far are:
 1. *STATS101*
